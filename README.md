@@ -1,4 +1,6 @@
 # paludarium-56gal
 
 To do:
-- [ ] moo
+- [ ] buy and insert tie rods
+- [ ] cut glass shelves to fit
+- [ ] silicon all glass
