@@ -21,6 +21,9 @@ Hydro Flow Barbed Tee 1/2 Inch, Bag of 10 | [Amazon](https://www.amazon.com/gp/p
 TotalPond 1/2 in. Vinyl Tubing | [Amazon](https://www.amazon.com/gp/product/B004DL0Y9O/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) | Tubing for plumbing | $8.97 | 1 (20ft)
 Hydro Flow Barbed Elbow 1/2 Inch, Bag of 10 | [Amazon](https://www.amazon.com/gp/product/B00CJIAOFM/ref=od_aui_detailpages01?ie=UTF8&psc=1) | Plumbing connections | $6.08 | 1 (package of 10)
 Quite 12V DC Solar 100℃ Hot Circulation Water Pump Brushless Motor 1/2" Couplers | [Ebay](http://www.ebay.com/itm/Quite-12V-DC-Solar-100-Hot-Circulation-Water-Pump-Brushless-Motor-1-2-Couplers-/272403296601) | Electrical pump | $15.95 | 1
+PVC Adapter, Insert x MNPT, 1/2" Pipe Size | [Grainger](https://www.grainger.com/product/6MM79?cm_mmc=EMT-_-OpenOrder-_-WillCallUS-_-SKU&RIID=17235325&GID=0716488530) | Connection to manifold | $0.88 | 1
+Brass Hose Barb with Straight Fitting Style, 1/4" Thread Size | [Grainger](https://www.grainger.com/product/6AFG9?cm_mmc=EMT-_-OpenOrder-_-WillCallUS-_-SKU&RIID=17235325&GID=0716488530) | Connection between solenoid and tubing | $1.85 | 2
+Brass Hose Barb with Straight Fitting Style, 3/8" Thread Size | [Grainger](https://www.grainger.com/product/6AFH2?cm_mmc=EMT-_-OpenOrder-_-WillCallUS-_-SKU&RIID=17235325&GID=0716488530) | Connectiong between filter cannister and tubing | $2.38 | 1
 
 
 ## Interior
