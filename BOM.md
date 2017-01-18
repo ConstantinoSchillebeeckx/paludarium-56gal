@@ -35,3 +35,7 @@ Item | Source | Description | Price | Quantity
 
 
 ## Electrical
+
+Item | Source | Description | Price | Quantity
+--- | --- | --- | --- | --- 
+Uxcell a11080400ux0080 IRFZ34N Power MOSFET Transistor, 30A 55V, TO-220AB, 5 Piece | [Amazon](https://www.amazon.com/gp/product/B0087Y7V3U/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) | Power control for pump & solenoid valve | $5.64 | 1 (bag of 5)
