@@ -23,7 +23,9 @@ Hydro Flow Barbed Elbow 1/2 Inch, Bag of 10 | [Amazon](https://www.amazon.com/gp
 Quite 12V DC Solar 100℃ Hot Circulation Water Pump Brushless Motor 1/2" Couplers | [Ebay](http://www.ebay.com/itm/Quite-12V-DC-Solar-100-Hot-Circulation-Water-Pump-Brushless-Motor-1-2-Couplers-/272403296601) | Electrical pump | $15.95 | 1
 PVC Adapter, Insert x MNPT, 1/2" Pipe Size | [Grainger](https://www.grainger.com/product/6MM79?cm_mmc=EMT-_-OpenOrder-_-WillCallUS-_-SKU&RIID=17235325&GID=0716488530) | Connection to manifold | $0.88 | 1
 Brass Hose Barb with Straight Fitting Style, 1/4" Thread Size | [Grainger](https://www.grainger.com/product/6AFG9?cm_mmc=EMT-_-OpenOrder-_-WillCallUS-_-SKU&RIID=17235325&GID=0716488530) | Connection between solenoid and tubing | $1.85 | 2
-Brass Hose Barb with Straight Fitting Style, 3/8" Thread Size | [Grainger](https://www.grainger.com/product/6AFH2?cm_mmc=EMT-_-OpenOrder-_-WillCallUS-_-SKU&RIID=17235325&GID=0716488530) | Connectiong between filter cannister and tubing | $2.38 | 1
+Brass Hose Barb with Straight Fitting Style, 3/8" Thread Size | [Grainger](https://www.grainger.com/product/6AFH2?cm_mmc=EMT-_-OpenOrder-_-WillCallUS-_-SKU&RIID=17235325&GID=0716488530) | Connection between filter cannister and tubing | $2.38 | 1
+3/8 in. x 3/8 in. Lead-Free Brass Flare x FIP Coupling | [Home depot](http://www.homedepot.com/p/Sioux-Chief-3-8-in-x-3-8-in-Lead-Free-Brass-Flare-x-FIP-Coupling-975-44101001/203468375) | Connection between pump and filter cannister | $3.22 | 1
+1/2 in. x 1/2 in. Brass Barb x FIP Adapter | [Home depot](http://www.homedepot.com/p/Sioux-Chief-1-2-in-x-1-2-in-Brass-Barb-x-FIP-Adapter-903-692001/202254894) | Connection between pump and tubing | $3.91 | 1
 
 
 ## Interior
