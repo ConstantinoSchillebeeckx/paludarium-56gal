@@ -13,6 +13,7 @@ polycarbonate sheet (14-15/16" x 13" x 1/8") | [Tapplastics](http://www.tapplast
 
 Item | Source | Description | Price | Quantity
 --- | --- | --- | --- | --- 
+Pentek 158110 3/8" #5 Slim Line Clear Filter Housing | [Amazon](https://www.amazon.com/gp/product/B0014C5D64/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) | Canister for inline charcoal filter | $17.85 | 1
 
 
 ## Interior
