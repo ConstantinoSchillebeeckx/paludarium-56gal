@@ -35,6 +35,7 @@ Item | Source | Description | Price | Quantity
 --- | --- | --- | --- | --- 
 7mm Polyester Hex Mesh | [Amazon](https://www.amazon.com/gp/product/B00I80QKQM/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) | Living wall mesh for holding plants and moisture | $1.19 | 4 yards
 Red Lava for Bonsai Soil | [Ebay](http://www.ebay.com/itm/221344388090?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT) | Aquarium substrate | $11.95 | 1
+Green multipurpose fence | [Home Depot](http://www.homedepot.com/p/HDX-40-in-x-25-ft-Green-Multi-Purpose-Fence-889250EB12/204331924?cm_mmc=Shopping%7cTHD%7cG%7c0%7cG-BASE-PLA-D21-Fencing%7c&gclid=CIiH4bfOhNICFYS4wAodtM8FQQ&gclsrc=aw.ds) | $10.97 | 1
 
 ## Flora
 
