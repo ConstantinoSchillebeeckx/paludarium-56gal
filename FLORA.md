@@ -24,3 +24,6 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 **Fertilizer**:	Use a dilute, one-quarter to one-half strength orchid fertilizer about twice monthly during the growing season.
 
 **Potting**:	Many species are intolerant of being disturbed so a well-drained epiphyte potting medium should be chosen. Repotting should take place only when new growth AND new roots are visible.
+
+#### Scaphosepalum breve
+<a href="http://imgur.com/cJuxAqx"><img src="http://i.imgur.com/cJuxAqx.jpg" title="source: imgur.com" /></a>
