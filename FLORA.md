@@ -37,3 +37,18 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 **Fertilizer**:	Quarter- to half-strength balanced fertilizer weekly; these plants do not have a dormant period, although they tend to produce flushes of growth in the spring with occasional growths emerging throughout the year. Plants are very intolerant of salts, so be sure to flush thoroughly with plain water between fertilizer.
 
 **Potting**:	Plants grow well in plastic pots or in mesh baskets with a well-drained fine mixture. The type of pot used is dependent upon the inflorescence habit. While many are upright, a few are descending in nature and can get hung up inside the pot if not allowed an easy exit. I use a mixture of 2 parts fine bark, 1 part each of medium tree fern, chopped New Zealand sphagnum moss and perlite. If humidity can be kept on the high side (80 %) many do well when mounted on a slab of tree-fern or cork bark; be sure to place a pad of moss around the roots when doing so as this helps
+
+### Mediocalcar decoratum
+
+<a href="http://www.rv-orchidworks.com/orchidtalk/attachments/orchids-other-genera-bloom/49067d1327522606-mediocalcar-decoratum-p1040692.jpg"><img src="http://www.rv-orchidworks.com/orchidtalk/attachments/orchids-other-genera-bloom/49067d1327522606-mediocalcar-decoratum-p1040692.jpg" height=400/></a>
+
+**Temperature**:	Cool to cool/intermediate.
+
+**Light**:	Bright indirect light.
+
+**Water-Humidity**:	Keep moist with high humidity and good air circulation.
+
+**Fertilizer**:	Plants should be fed with a dilute solution of a balanced fertilizer year round.
+
+**Potting**:	In a pot these plants will form mounds but in general they do best mounted on tree fern slabs or other moisture retentive substrate. The roots are thin and wiry and seem best suited to hold the plant to the substrate.
+
