@@ -52,3 +52,15 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 
 **Potting**:	In a pot these plants will form mounds but in general they do best mounted on tree fern slabs or other moisture retentive substrate. The roots are thin and wiry and seem best suited to hold the plant to the substrate.
 
+### Masdevallia erinacea
+
+<a href="https://www.orchidsforum.com/attachments/100_3420-jpg.15453/"><img src="https://www.orchidsforum.com/attachments/100_3420-jpg.15453/" height=400/></a>
+
+**Temperature**:	Warm, intermediate to cool depending on the species and its native habit. In this genus it is critically important to know the identity of the plant you are trying to grow. This is your key to accurate culture.
+
+**Light**:	Virtually all species require bright shade to diffuse bright conditions.
+Water-Humidity:	All require 40-70% humidity with excellent air movement. All lack pseudobulbs and should not be allowed to dry out completely for any length of time. Many species are sensitive to dissolved salts and excellent water quality is very important.
+
+**Fertilizer**:	Use a dilute, ½ to ¼ strength balanced fertilizer applied about every other week. Flush thoroughly between fertilizer applications to wash away accumulated salts. Plants are intolerant of high salt accumulation.
+
+**Potting**:	Potting can be done at any time of the year except during periods of high temperature as these plants grow continuously. They can be mounted if adequate water and humidity are provided or they can be potting in small pots of rapidly draining water-retentive epiphytic mix such as treefern or a fine firbark, perlite, charcoal mix or sphagnum moss. Clay pots can be used if plants can be watered sufficiently.
