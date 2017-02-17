@@ -27,3 +27,13 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 
 #### Scaphosepalum breve
 <a href="http://imgur.com/cJuxAqx"><img src="http://i.imgur.com/cJuxAqx.jpg" title="source: imgur.com" height=400/></a>
+
+**Temperature**:	Intermediate to Cool - Ideal night temperatures between 50F and 65F; daytime temperatures between 60F and 80F.
+
+**Light**:	Bright light with no direct sun.
+
+**Water-Humidity**:	Evenly moist (roots should never completely dry out) with humidity between 60% and 80%.
+
+**Fertilizer**:	Quarter- to half-strength balanced fertilizer weekly; these plants do not have a dormant period, although they tend to produce flushes of growth in the spring with occasional growths emerging throughout the year. Plants are very intolerant of salts, so be sure to flush thoroughly with plain water between fertilizer.
+
+**Potting**:	Plants grow well in plastic pots or in mesh baskets with a well-drained fine mixture. The type of pot used is dependent upon the inflorescence habit. While many are upright, a few are descending in nature and can get hung up inside the pot if not allowed an easy exit. I use a mixture of 2 parts fine bark, 1 part each of medium tree fern, chopped New Zealand sphagnum moss and perlite. If humidity can be kept on the high side (80 %) many do well when mounted on a slab of tree-fern or cork bark; be sure to place a pad of moss around the roots when doing so as this helps
