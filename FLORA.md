@@ -12,7 +12,7 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 
 ## Orchid care
 
-#### Maxillaria juergensii
+### Maxillaria juergensii
 <a href="http://imgur.com/p21V4XT"><img src="http://i.imgur.com/p21V4XT.jpg" title="source: imgur.com" /></a>
 
 **Temperature**:	The bulk of the species do very well under intermediate temperatures (55F nights/85F days). Those species from high elevations will require cooler temperatures while those from hot lowlands will require warmer conditions.
@@ -25,7 +25,7 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 
 **Potting**:	Many species are intolerant of being disturbed so a well-drained epiphyte potting medium should be chosen. Repotting should take place only when new growth AND new roots are visible.
 
-#### Scaphosepalum breve
+### Scaphosepalum breve
 <a href="http://imgur.com/cJuxAqx"><img src="http://i.imgur.com/cJuxAqx.jpg" title="source: imgur.com" height=400/></a>
 
 **Temperature**:	Intermediate to Cool - Ideal night temperatures between 50F and 65F; daytime temperatures between 60F and 80F.
