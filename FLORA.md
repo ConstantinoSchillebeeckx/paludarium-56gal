@@ -26,4 +26,4 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 **Potting**:	Many species are intolerant of being disturbed so a well-drained epiphyte potting medium should be chosen. Repotting should take place only when new growth AND new roots are visible.
 
 #### Scaphosepalum breve
-<a href="http://imgur.com/cJuxAqx"><img src="http://i.imgur.com/cJuxAqx.jpg" title="source: imgur.com" /></a>
+<a href="http://imgur.com/cJuxAqx"><img src="http://i.imgur.com/cJuxAqx.jpg" title="source: imgur.com" height=400/></a>
