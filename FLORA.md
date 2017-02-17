@@ -11,3 +11,6 @@ Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/lette
 
 
 ## Orchid care
+
+#### Maxillaria juergensii
+<a href="http://imgur.com/p21V4XT"><img src="http://i.imgur.com/p21V4XT.jpg" title="source: imgur.com" /></a>
