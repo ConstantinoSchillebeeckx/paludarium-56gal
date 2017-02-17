@@ -64,3 +64,17 @@ Water-Humidity:	All require 40-70% humidity with excellent air movement. All lac
 **Fertilizer**:	Use a dilute, ½ to ¼ strength balanced fertilizer applied about every other week. Flush thoroughly between fertilizer applications to wash away accumulated salts. Plants are intolerant of high salt accumulation.
 
 **Potting**:	Potting can be done at any time of the year except during periods of high temperature as these plants grow continuously. They can be mounted if adequate water and humidity are provided or they can be potting in small pots of rapidly draining water-retentive epiphytic mix such as treefern or a fine firbark, perlite, charcoal mix or sphagnum moss. Clay pots can be used if plants can be watered sufficiently.
+
+### Cyclopogon lindleyanum
+
+<a href="http://forum.theorchidsource.com/gallery/60/medium/11669.jpg"><img src="http://forum.theorchidsource.com/gallery/60/medium/11669.jpg" height=400/></a>
+
+**Temperature**:	Minimum temperature 55-60F
+
+**Light**:	Shady
+
+**Water-Humidity**:	Humid condition; do not allow plants to dry off. While not in active growth and after flowering when leaves may die off, decrease water until new growth appears.
+
+**Fertilizer**:	A balanced fertilizer applied monthly.
+
+**Potting**:	Any good, well draining terrestrial mix.
