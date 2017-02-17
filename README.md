@@ -1,6 +1,6 @@
 # paludarium-56gal
 
-Hack of [Ikea DETOLF](http://www.ikea.com/us/en/catalog/products/10119206/) glass-door cabinet.
+Hack of [Ikea DETOLF](http://www.ikea.com/us/en/catalog/products/10119206/) glass-door cabinet into a climate controlled mini-jungle complete with living walls and a pond section.
 
 ## Bill of Material
 
