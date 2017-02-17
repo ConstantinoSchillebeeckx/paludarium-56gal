@@ -8,3 +8,6 @@ Scaphosepalum breve | [local](http://www.orchidspecies.com/scaphobreve.htm) | Or
 Mediocalcar decoratum | [local](http://www.orchidspecies.com/mediocalcdecoratum.htm) | Orchid | $12.00 | 1
 Masdevallia erinacea | [local](http://www.orchidspecies.com/masderinacea.htm) | Orchid | $15.00 | 1
 Cyclopogon lindleyanum | [local](http://www.aos.org/orchids/orchids-a-to-z/letter-c/cyclopogon.aspx) | Orchid | $20.00 | 1
+
+
+## Orchid care
